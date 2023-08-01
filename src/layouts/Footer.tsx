@@ -13,7 +13,7 @@ export default function Footer() {
         </div>
         <div className="flex gap-20">
           <ul className="space-y-2">
-            <li>Upcoming</li>
+            <li>Upcoming even</li>
             <li>Shipping</li>
             <li>How it works</li>
           </ul>
